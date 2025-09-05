@@ -16,7 +16,7 @@ const app = () => {
                 <i className="fa-solid fa-car fa-2x"></i>
                 <div>
                   <p>carro</p>
-                  <p>Porsche Amarelo</p>
+                  <p>Porsche Amarelo.</p>
                 </div>
             </div>
           </div>
