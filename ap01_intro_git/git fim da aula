@@ -1,0 +1,22 @@
+git add .
+git commit 
+
+git commit -m "feat: criar componente de busca"
+git commit -m "fix: corrigir erro de renderização no botão"
+git commit -m "docs: atualizar README com instruções de uso"
+git commit -m "style: padronizar indentação do código"
+git commit -m "refactor: extrair função para serviço separado"
+git commit -m "test: adicionar testes unitários para login"
+git commit -m "chore: atualizar dependências do projeto"
+git commit -m "perf: otimizar carregamento das imagens"
+git commit -m "build: configurar build com Vite"
+git commit -m "ci: adicionar pipeline de testes no GitHub Actions"
+git commit -m "revert: revert 'feat: adicionar autenticação'"
+
+
+git add .
+git commit 
+(ap04-react-props) criação do layout grid responsivo com um card"
+
+
+
